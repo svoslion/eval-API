@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins');
+
+
+body{
+    background-color: #3c87ff;
+    font-family: 'Poppins', sans-serif;
+}
+
+.title{
+    margin: 2em;
+    color: white;
+}
+
+.home-1{ 
+    margin: 8em;
+    display: flex;
+    width: 100%;
+}
+
+.card{
+    margin: 4em;
+}
+
+.home-2{
+    margin: 8em;
+    display: flex
+}
+
+.content{
+    margin: 0 auto;
+}
